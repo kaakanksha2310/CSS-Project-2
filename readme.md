@@ -1,4 +1,5 @@
 # CSS Project 2
+![Website Screenshot](Proj2.png)
 
 ## Description
 

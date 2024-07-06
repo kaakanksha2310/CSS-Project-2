@@ -25,7 +25,7 @@ main{
 nav{
     height: 50px;
     width: 100%;
-    background-color:  rgb(36, 36, 36);
+    background-color: #A0937D;
   color: rgb(234, 231, 231);
     display: flex;
     justify-content: flex-end;
